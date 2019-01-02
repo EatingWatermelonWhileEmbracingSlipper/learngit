@@ -5,4 +5,4 @@ Git tracks change.
 Creat a new branch is quick and simple.
 I am a little tierd.
 I have just fix a bug.
-
+I am learning stash.
